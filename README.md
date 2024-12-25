@@ -1,2 +1,2 @@
 # browser-index
-For browsers startup pages
+For browsers startup pages and more...
